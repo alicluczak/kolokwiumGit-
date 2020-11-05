@@ -1,2 +1,3 @@
 zmiana01
 zmiana05nb
+zmiana06
